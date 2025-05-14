@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import PropertyCard, { PropertyProps } from './PropertyCard';
+import PropertyCard, { PropertyProps } from './PropertyCard.tsx';
 
 // Sample property data
 const sampleProperties: PropertyProps[] = [
