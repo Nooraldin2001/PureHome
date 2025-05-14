@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { FaSearch, FaSliders } from 'react-icons/fa';
+import { FaSearch } from 'react-icons/fa';
+import { FaGear } from 'react-icons/fa6';
 
 const HeroSection: React.FC = () => {
   const [isAdvancedOpen, setIsAdvancedOpen] = useState(false);
@@ -91,7 +92,7 @@ const HeroSection: React.FC = () => {
                   className="p-3 text-text-dark border border-gray-300 rounded-md hover:bg-gray-100 focus:outline-none"
                   aria-label="Advanced Search"
                 >
-                  <FaSliders />
+                  <FaGear />
                 </button>
                 <button
                   type="submit"
