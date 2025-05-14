@@ -82,7 +82,7 @@ const sampleProperties: PropertyProps[] = [
   },
   {
     id: '6',
-    title: 'Brand New 4BR Villa | Maid's Room | Community View',
+    title: 'Brand New 4BR Villa | Maid\'s Room | Community View',
     price: 4200000,
     image: '/properties/property6.jpg',
     type: 'sale',

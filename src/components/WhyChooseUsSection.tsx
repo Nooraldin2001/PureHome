@@ -24,7 +24,7 @@ const features = [
     id: 4,
     icon: <FaClock />,
     title: '24/7 Customer Service',
-    description: 'We're always available to address your queries and concerns, ensuring a smooth experience.'
+    description: 'We\'re always available to address your queries and concerns, ensuring a smooth experience.'
   },
   {
     id: 5,
