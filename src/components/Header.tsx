@@ -25,7 +25,7 @@ const Header: React.FC = () => {
       <div className="container-custom py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <img
-            src="/logo.png"
+            src="/purehome/logo.png"
             alt="Pure Home Real Estate"
             className="h-12 md:h-16"
           />
